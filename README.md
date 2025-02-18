@@ -27,8 +27,20 @@ This involves:
 
  Data Structure Review: 
  ----
-  I have a look at the data source's schema, the data types of the columns, and the relations between the tables which show how the data is organized.
+   ![Image](https://github.com/user-attachments/assets/879c4918-74c8-4d05-bc80-412d01268a37)
+  Numerous values were put in text form for storage and needed to be changed to numbers (whole, decimal, money) where needed. The data had a structure of being in one big table with no relationship checks needed. 
+  If I will need to have a date table in the future, I will do it later.
 
  Preliminary Exploration:
  ---
-  I do simple statistical data of my research to spot the curiosities and reveal the hidden patterns that can have an impact on the analysis.
+    ![Image](https://github.com/user-attachments/assets/d73aa4b1-017c-4368-95b0-03c158eccff1)
+    To establish the data, I developed two measures: the Count of ID to see the sum of all the records and the Distinct Count of ID to ensure that there 
+    are no missing or repeated values. With these measures, I was able to verify the dataset's reliability and extent of completion. 
+
+    ![Image](https://github.com/user-attachments/assets/1ef18a20-18a9-4031-ae7f-d1b0384c8429)
+    After I did an in-depth examination of the churn by departments, I noticed a frightening tendency: the churn rate stood at a good old 27%. This statistic evoked some thoughts that justify the need for further 
+   inspection to decrypt the factors behind such a high rate. The exclusive reach to the data is the basis for identifying patterns in holding on to the customer or discovering the weak areas that make clients 
+   move away.
+   
+
+ 
