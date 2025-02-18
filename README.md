@@ -36,12 +36,12 @@ This involves:
  ---
    ![Image](https://github.com/user-attachments/assets/d73aa4b1-017c-4368-95b0-03c158eccff1).
     
-    To establish the data, I developed two measures: the Count of ID to see the sum of all the records and the Distinct Count of ID to ensure that there 
-    are no missing or repeated values. With these measures, I was able to verify the dataset's reliability and extent of completion. 
+   To establish the data, I developed two measures: the Count of ID to see the sum of all the records and the Distinct Count of ID to ensure that there 
+   are no missing or repeated values. With these measures, I was able to verify the dataset's reliability and extent of completion. 
 
    ![Image](https://github.com/user-attachments/assets/1ef18a20-18a9-4031-ae7f-d1b0384c8429).
     
-    After I did an in-depth examination of the churn by departments, I noticed a frightening tendency: the churn rate stood at a good old 27%. This statistic evoked some thoughts that justify the need for further 
+   After I did an in-depth examination of the churn by departments, I noticed a frightening tendency: the churn rate stood at a good old 27%. This statistic evoked some thoughts that justify the need for further 
    inspection to decrypt the factors behind such a high rate. The exclusive reach to the data is the basis for identifying patterns in holding on to the customer or discovering the weak areas that make clients 
    move away.
    
