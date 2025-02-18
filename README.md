@@ -13,17 +13,22 @@ This project is a detailed customer survey of Databel in which we will reveal th
 Data Checking & Validation
 ----
 
-Before getting into the heart of the problem, I assure myself that the set of data is perfect, complete, and handy for extracting significant ideas. This involves:
+Before getting into the heart of the problem, I assure myself that the set of data is perfect, complete, and handy for extracting significant ideas. 
 
-Data Quality Assessment:
-----
-
-I examine whether there are any absent, inconsistent, or duplicate values in the data to keep data the way it should be.
-
-Data Structure Review: 
-----
-I have a look at the data source's schema, the data types of the columns, and the relations between the tables which show how the data is organized.
-
-Preliminary Exploration:
+This involves:
 ---
-I do simple statistical data of my research to spot the curiosities and reveal the hidden patterns that can have an impact on the analysis.
+
+ Data Quality Assessment:
+ ----
+   ![Image](https://github.com/user-attachments/assets/43a548c0-562c-4894-ab84-4aa1592bcca3)
+   
+   After loading the dataset, I couldn't help but notice that the headers were in the very first row, so I rearranged them to be column names. After that, I double-checked the data structure to make sure that all columns were properly formatted with the correct data types. Not a single inconsistency was found, and the duplicate check, lastly, revealed that there were no duplicated records. When the dataset is both cleaned and structured, the next appropriate step of action is checking for missing values and conducting a preliminary statistical summary to pinpoint any peculiarities before proceeding with the deeper analysis. 
+
+
+ Data Structure Review: 
+ ----
+  I have a look at the data source's schema, the data types of the columns, and the relations between the tables which show how the data is organized.
+
+ Preliminary Exploration:
+ ---
+  I do simple statistical data of my research to spot the curiosities and reveal the hidden patterns that can have an impact on the analysis.
