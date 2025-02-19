@@ -40,13 +40,15 @@ This involves:
    records and the Distinct Count of ID to ensure that there 
    are no missing or repeated values. With these measures, I was able to verify the dataset's 
    reliability and extent of completion. 
-     DAX statement
-     Number of Customers = COUNT('Databel - Data'[CustomerID]
-     Number of Unique Customers = DISTINCTCOUNT('Databel - Data'[CustomerID]
+   
+          DAX statement
+          Number of Customers = COUNT('Databel - Data'[CustomerID]
+          Number of Unique Customers = DISTINCTCOUNT('Databel - Data'[CustomerID]
      
    ![Image](https://github.com/user-attachments/assets/8c9551e3-be65-449c-b548-4dbcf27bc10c)
-      DAX statement 
-      Chunr Rate = [Number of Churned Customers] / [Number of Customers]
+   
+         DAX statement 
+         Chunr Rate = [Number of Churned Customers] / [Number of Customers]
       
     
    After I did an in-depth examination of the churn by departments, I noticed a frightening 
