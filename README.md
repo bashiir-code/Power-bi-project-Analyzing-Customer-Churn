@@ -64,11 +64,41 @@ This involves:
 
    ![Image](https://github.com/user-attachments/assets/8bddbff3-583b-40cd-aaa3-209cd936ee26)
 
-  The analysis determines that customer service and competitors are the biggest drivers of 
-  churn. Both of these categories need further investigation into why customers are going to 
-  competitors and what specifically they are experiencing with customer service. Identifying 
-  trends within these reasons for churn will enable actionable initiatives to be developed to 
-  improve retention.
+  The analysis determines on firt hand that customer service and competitors are the biggest 
+  drivers of churn. Both of these categories need further investigation into why customers are 
+  going to competitors and what specifically they are experiencing with customer service. 
+  Identifying trends within these reasons for churn will enable actionable initiatives to be 
+  developed to improve retention.
+
+  To find how the competitors and customer service would impact churn, we need to analyze 
+  their percent of total cases of churn. By calculating their share, we can determine their 
+  significance compared to other causes for churn. It will help identify what needs priority 
+  fixing in relation to the problems affecting customer retention.
+
+  I saw the Churn Category column had blank values, and this would affect the accuracy of the 
+  analysis. Since there was already an "Other" category, I replaced the missing values with 
+ "Other" to prevent inconsistency and obtain a more accurate estimation of churn distribution. 
+  This modification prevents missing data and categorizes all churn cases appropriately.
+
+  ![Image](https://github.com/user-attachments/assets/69b7e4e9-b87b-44d6-a056-b5ea2f9dc462)
+
+  I used the Churn Category column to see the distribution of the churned customers by 
+  quantity. By calculating the grand total, I was able to see how churn is distributed across 
+  categories and determine the most critical causes for customer loss. This segmentation 
+  provides a clear idea of where most attention must be given to avoid minimizing churn.
+
+  ![Image](https://github.com/user-attachments/assets/fda08381-96f9-483c-a896-70b801cbbc51)
+  The churn analysis revealed that 45% of the customers churned out due to competitors, and 
+  this was the largest driver of churn. The second and third most common reasons were attitude 
+  and dissatisfaction, both due to customer service issues. The "Other" category had a 
+  frequency of 12%, and price was the least common reason for churn at 11%. This reveals that 
+  the focus should be on improving customer service as well as competitor influence analysis, 
+  rather than optimizing prices.
+
+  
+
+  
+  
 
    
 
