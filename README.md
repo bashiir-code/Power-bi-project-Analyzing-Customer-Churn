@@ -36,14 +36,38 @@ This involves:
  ---
    ![Image](https://github.com/user-attachments/assets/d73aa4b1-017c-4368-95b0-03c158eccff1).
     
-   To establish the data, I developed two measures: the Count of ID to see the sum of all the records and the Distinct Count of ID to ensure that there 
-   are no missing or repeated values. With these measures, I was able to verify the dataset's reliability and extent of completion. 
-
-   ![Image](https://github.com/user-attachments/assets/1ef18a20-18a9-4031-ae7f-d1b0384c8429).
+   To establish the data, I developed two measures: the Count of ID to see the sum of all the 
+   records and the Distinct Count of ID to ensure that there 
+   are no missing or repeated values. With these measures, I was able to verify the dataset's 
+   reliability and extent of completion. 
+     DAX statement
+     Number of Customers = COUNT('Databel - Data'[CustomerID]
+     Number of Unique Customers = DISTINCTCOUNT('Databel - Data'[CustomerID]
+     
+   ![Image](https://github.com/user-attachments/assets/8c9551e3-be65-449c-b548-4dbcf27bc10c)
+      DAX statement 
+      Chunr Rate = [Number of Churned Customers] / [Number of Customers]
+      
     
-   After I did an in-depth examination of the churn by departments, I noticed a frightening tendency: the churn rate stood at a good old 27%. This statistic evoked some thoughts that justify the need for further 
-   inspection to decrypt the factors behind such a high rate. The exclusive reach to the data is the basis for identifying patterns in holding on to the customer or discovering the weak areas that make clients 
-   move away.
+   After I did an in-depth examination of the churn by departments, I noticed a frightening 
+   tendency: the churn rate stood at a good 27%. This statistic evoked some thoughts that 
+   justify the need for further inspection to decrypt the factors behind such a high rate. The 
+   exclusive reach to the data  is the basis for identifying patterns in holding on to the 
+   customer or discovering the weak  areas that make clients move away.
+
+   Since we have a Churn Reason column, we can look at the specific reasons customers are 
+   churning. By aggregating and graphing this information, we can view the most common churn 
+   drivers and focus on decreasing their impact. The next step is to examine the distribution 
+   of churn reasons to determine areas of emphasis.
+
+   ![Image](https://github.com/user-attachments/assets/8bddbff3-583b-40cd-aaa3-209cd936ee26)
+
+  The analysis determines that customer service and competitors are the biggest drivers of 
+  churn. Both of these categories need further investigation into why customers are going to 
+  competitors and what specifically they are experiencing with customer service. Identifying 
+  trends within these reasons for churn will enable actionable initiatives to be developed to 
+  improve retention.
+
    
 
 // TODO:
