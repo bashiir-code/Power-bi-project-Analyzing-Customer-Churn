@@ -95,6 +95,24 @@ This involves:
   the focus should be on improving customer service as well as competitor influence analysis, 
   rather than optimizing prices.
 
+
+   Second, I will investigate where the highest churn rates are taking place. Knowing where customer attrition is having the largest effect, we can determine what the next action should be—whether that is 
+  improving service in those areas, modifying marketing efforts, or taking on primary causes of churn in those areas.
+
+  ![Image](https://github.com/user-attachments/assets/0ac5f4cf-87ab-4489-858c-672ca8b27d8c)
+
+  
+  The analysis shows that the State of CA is the most affected, with a 65% churn rate. This highlights a critical issue in this region, requiring further investigation into the underlying causes. Understanding 
+  the specific factors driving churn in CA will help in developing targeted strategies to improve customer retention.
+
+  
+
+  
+
+  
+
+
+ 
   
 
   
