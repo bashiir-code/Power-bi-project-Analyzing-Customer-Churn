@@ -102,7 +102,7 @@ This involves:
   ![Image](https://github.com/user-attachments/assets/0ac5f4cf-87ab-4489-858c-672ca8b27d8c)
 
   
-  The analysis shows that the State of CA is the most affected, with a 65% churn rate. This highlights a critical issue in this region, requiring further investigation into the underlying causes. Understanding 
+  The analysis shows that the State of CA is the most affected, with a 63% churn rate. This highlights a critical issue in this region, requiring further investigation into the underlying causes. Understanding 
   the specific factors driving churn in CA will help in developing targeted strategies to improve customer retention.
 
   
