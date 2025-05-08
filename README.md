@@ -166,9 +166,8 @@ Additionally, Databell should identify customers who have an international plan 
 We can see that new customers have the highest churn rate, which could point to onboarding or early experience issues. Beyond that, it’s hard to draw conclusions about contract types, since, for example, paper check users have the lowest churn, but they make up only 5.55% of all customers. Is small a group to generalize from.
 
 **Visualisations**
-
-
-
+# Overview
+![image](https://github.com/user-attachments/assets/5fd640ec-9df7-4dbd-b1b7-a813c56f1c30)
 
 
 
