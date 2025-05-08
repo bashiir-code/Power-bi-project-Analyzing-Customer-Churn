@@ -96,7 +96,7 @@ This involves:
   rather than optimizing prices.
 
 
-   Second, I will investigate where the highest churn rates are taking place. Knowing where customer attrition is having the largest effect, we can determine what the next action should be—whether that is 
+   Second, I will investigate where the highest churn rates are taking place. Knowing where customer attrition is having the largest effect, we can determine what the next action should be. Whether that is 
   improving service in those areas, modifying marketing efforts, or taking on primary causes of churn in those areas.
 
   ![Image](https://github.com/user-attachments/assets/0ac5f4cf-87ab-4489-858c-672ca8b27d8c)
@@ -104,6 +104,67 @@ This involves:
   
   The analysis shows that the State of CA is the most affected, with a 63% churn rate. This highlights a critical issue in this region, requiring further investigation into the underlying causes. Understanding 
   the specific factors driving churn in CA will help in developing targeted strategies to improve customer retention.
+
+  # Notes:
+  
+ From the initial part of the investigation, it's clear that our competitiveness is weak—something seems off, and we’re not performing well compared to others in the market.
+ 
+ The overall churn rate is 27%, which is already quite high.
+
+ California stands out with an abnormal churn rate of 63%, and currently, we don’t know the cause behind this.
+ 
+ Additionally, 45% of the churn is due to competitors, which suggests that customers are leaving us for alternative services, possibly because of better offers or dissatisfaction on our side.
+
+
+  
+**Analyze Demographics**
+
+# Age Groups Affect on Churn Rate
+Let’s take a closer look at how different age groups are affecting the churn rate, this might help us understand the problem better and spot if certain age ranges are more likely to leave than others.
+
+![Image](https://github.com/user-attachments/assets/87cb6411-cf9d-445c-ba1e-91730404840a)
+
+We can see that the churn rate among seniors is close to 40%, meaning nearly half of our senior customers are leaving. That’s quite concerning and suggests we’re struggling to attract or retain older customers.
+
+This result suggests that we should break down the age groups further to see which ones are most affected by churn, and which groups we’re still managing to attract and retain well.
+
+![Image](https://github.com/user-attachments/assets/711c646a-69e7-4f4f-adfc-c667aa265158)
+
+Age 45 is our largest customer group, with a churn rate of about 25%. There’s a clear trend: churn average increases with age, confirming our assumption that we’re struggling to retain older customers.
+
+# Databel offers group contracts to customer from the household. That could have impact on the churn rate.
+
+![Image](https://github.com/user-attachments/assets/2d8894d4-cf54-4fd7-a3fd-a4fdb12664f1)
+
+We see that non-group customers have a higher churn rate, while customers in groups of 6 have the lowest churn. Interestingly, the average monthly bill doesn’t drop significantly as group size increases, so lower churn isn’t just about lower cost.
+
+# Contract type and gender effect on churn rate 
+
+![Image](https://github.com/user-attachments/assets/04c9df57-27b9-4070-a02a-1efeccccaf71)
+
+From the visualization, we can see that monthly contracts have a significantly higher churn rate. Gender doesn't appear to have much impact, especially within contract types, the churn rates for males and females are very close.
+
+# How unlimited data plan and GB consumption effects on churn rate
+
+![Image](https://github.com/user-attachments/assets/2ca19e2b-5915-41fd-92b4-884c19823994)
+
+Customers with unlimited data plans show a higher churn rate, and the highest churn within that group comes from those who use less than 5 GB per month.
+
+# How international calls effect on churn rate in CA
+
+![Image](https://github.com/user-attachments/assets/300fc00d-a8e0-4369-b7a1-d76bedbbdf7d)
+
+72% of customers without an international plan still make international calls, which presents a great opportunity to launch a targeted promotion or introduce a lightweight international package for this segment.
+
+Additionally, Databell should identify customers who have an international plan but rarely use it, and suggest downgrading their plan. This could improve customer satisfaction and reduce unnecessary churn.
+
+
+
+
+
+
+
+
 
   
 
