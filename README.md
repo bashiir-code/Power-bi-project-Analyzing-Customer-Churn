@@ -159,6 +159,11 @@ Customers with unlimited data plans show a higher churn rate, and the highest ch
 Additionally, Databell should identify customers who have an international plan but rarely use it, and suggest downgrading their plan. This could improve customer satisfaction and reduce unnecessary churn.
 
 
+**Investigating Issues with Customer Service**
+
+![Image](https://github.com/user-attachments/assets/0c0b2021-f2a2-424e-b509-66c6fae746ad)
+We can 
+
 
 
 
